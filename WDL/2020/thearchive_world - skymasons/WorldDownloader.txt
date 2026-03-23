@@ -1,0 +1,4 @@
+#These settings are used for a single world in a multiworld server.
+#Mon Jun 23 15:06:50 MDT 2025
+WorldName=skymasons
+LastSaved=1750712810472
